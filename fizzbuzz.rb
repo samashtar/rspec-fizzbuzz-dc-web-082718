@@ -4,5 +4,6 @@
 
 
 def fizzbuzz(int) 
-  if int = 3 return "Fizz"
+  if int = 3 
+    return "Fizz"
 end
